@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Abhinav
 
-<!--
-**DonCorleone92/DonCorleone92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Principal Software Engineer
+☁️ Distributed Systems | Java | Cloud
+💻 12+ years of software engineering
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Java | Spring Boot | Kubernetes | AWS
+C++ | Distributed Systems | Linux
+
+━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+[GitHub contribution statistics]
+
+━━━━━━━━━━━━━━━━━━━━
+
+🔥 Featured Projects
+
+Project 1
+Project 2
+Project 3
+
+━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect with me
+LinkedIn | Email | ...
